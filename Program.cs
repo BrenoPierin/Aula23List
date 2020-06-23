@@ -55,15 +55,11 @@ namespace Aula23Listas
             // Procuramos um produto específico
             Produto lenovo = produtos.Find(x => x.Nome == "Xiaomi");
             
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine( lenovo.Preco );
-            Console.ResetColor();
-
             // Atividade seguirá à partir daqui:
             List<Cartao> card = new List<Cartao>();
-            card.Add( new Cartao("Breno", 908032459f, "porto seguro", 2020-12-12, 234));
-            card.Add( new Cartao("Paulo", 4599373845f, "MasterCard", 2027-10-30, 578));
-            card.Add( new Cartao("João", 450384343845f, "Bradesco", 2028-07-21, 578));
+            card.Add( new Cartao("Breno", 908032459f, "porto seguro", DateTime.Parse("2020/12/12"), 234));
+            card.Add( new Cartao("Paulo", 4599373845f, "MasterCard",  DateTime.Parse("2027/10/30"), 578));
+            card.Add( new Cartao("João", 450384343845f, "Bradesco",  DateTime.Parse("2028/07/21"), 578));
 
             foreach(Cartao e in card)
             {   

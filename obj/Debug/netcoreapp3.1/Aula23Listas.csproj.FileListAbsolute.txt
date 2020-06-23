@@ -17,3 +17,10 @@ C:\Breno USA\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.AssemblyInf
 C:\Breno USA\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.AssemblyInfo.cs
 C:\Breno USA\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.dll
 C:\Breno USA\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.pdb
+C:\Breno USA\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.exe
+C:\Breno USA\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.deps.json
+C:\Breno USA\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.runtimeconfig.json
+C:\Breno USA\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.runtimeconfig.dev.json
+C:\Breno USA\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.dll
+C:\Breno USA\Senai\Aula23Listas\bin\Debug\netcoreapp3.1\Aula23Listas.pdb
+C:\Breno USA\Senai\Aula23Listas\obj\Debug\netcoreapp3.1\Aula23Listas.genruntimeconfig.cache

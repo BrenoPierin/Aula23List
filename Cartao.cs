@@ -13,7 +13,7 @@ namespace Aula23Listas
             this.Titular = titular_;
             this.Numero = numero_;
             this.Bandeira = bandeira_;
-            this.Vencimento = vencimento_;
+            this.vencimento = vencimento_;
             this.cvv = cvv_;
 
         }
